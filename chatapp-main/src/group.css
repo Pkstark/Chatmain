@@ -1,0 +1,27 @@
+.ggroup{
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    background-color: rgba(36, 33, 33, 0.603);
+    text-decoration-line: none;
+    text-decoration-style: none;
+    height: 50px;
+    margin-bottom: 5px;
+    
+}
+.ggroup:hover{
+   
+    border: 4px solid gray;
+    background-color: rgb(5, 5, 5);
+}
+.btn-mes{
+    width: 100% !important;
+    background-color: gray;
+    
+}
+.link{
+    width: 100%;
+    color: white;
+    margin: 10px;
+    
+}

@@ -1,0 +1,86 @@
+
+.body{
+    background-image: url("./back\ log.jpg") !important;
+    opacity: 0.8;
+    background-position: center;
+    background-size: cover;
+    font-family: Work Sans;
+    
+   
+}
+
+.cont{
+   display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-content: center;
+    align-items: center;
+    color: white;
+    box-shadow: inset 10px 1px 50px 4px black;
+    
+
+
+   
+}
+.add{
+    margin-right: 10px !important;
+    color: black;
+
+}
+
+.add-group0{
+    width: 100% !important;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid gray;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.input-chat{
+    cursor: pointer;
+    width: 100% !important;
+    background-color: rgb(227, 235, 231);
+    overflow: hidden;
+    border: none ;
+    border-bottom:1px solid black ;
+    border-radius: 10px ;
+    color:black;
+    height: 40px;
+}
+
+.button{
+    border-radius: 10px;
+    background-color: rgba(41, 119, 54, 0.849);
+    border : none;
+    border-bottom: 1px solid black;
+    height: 40px;
+   
+}
+.add-group0 :hover{
+  box-shadow: 10px 10x 50px 40px grey;
+
+}
+
+.img-chat{
+    border-radius: 40px !important;
+    box-shadow: 1px 1px 10px 10px black;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.messege{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.hih{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+

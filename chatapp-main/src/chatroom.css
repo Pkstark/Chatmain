@@ -1,0 +1,73 @@
+body{
+    background-image: none;
+}
+
+.header{
+    background-color: gray !important;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
+.header>h2{
+    display: flex;
+    margin-left: -150px;
+}
+.header>h2>span{
+    margin-right: 10px;
+}
+.header>span{
+    border-radius: 20px !important;
+}
+
+.footer{
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+   height: fit-content;
+   bottom: 0 !important;
+   background-color: grey;
+}
+#in{
+    flex: 1;
+    border-radius: 7px;
+    height: fit-content;
+    background-color: rgb(48, 39, 39);
+    color: white;
+    outline: hidden !important;
+    border: 2px solid gray ;
+}
+.cont-1{
+    width: 100%;
+    height: 100vh;
+    
+}
+.files{
+    display: none;
+}
+.messege-body{
+    overflow: scroll !important;
+    background-image: url("./chatback.jpg") !important;
+    background-image: none;
+    height: 100vh;
+    flex: .97;
+    padding: 20px;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    
+    
+    
+}
+
+.onmj{
+    
+    height: 30px;
+}
+.fileop{
+    
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
